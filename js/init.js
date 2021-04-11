@@ -7,6 +7,6 @@ firebase.initializeApp({
     projectId: "autentifica42nma-d285e",
     storageBucket: "autentifica42nma-d285e.appspot.com",
     messagingSenderId: "399989783242",
-    appId: "1:399989783242:web:1b93a7d996e55468cdd233",
-    measurementId: "G-XJS2KF38FT"
+    appId: "1:399989783242:web:48708a52a927936ecdd233",
+    measurementId: "G-ECWW8MYNZM"
     });
